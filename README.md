@@ -1,2 +1,2 @@
-# The-Captains-Guide-to-Petrichor
+# thecaptainsguidetopetrichor
  A piece of Aurora DND homebrew!
