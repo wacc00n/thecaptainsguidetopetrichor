@@ -80,6 +80,6 @@
       <setters>
   	<set name="short">A master of movement, unarmed combat, and thunder.</set>
   	<set name="hd">d12</set>
-    </setters>
+        </setters>
     </element>
 </elements>
