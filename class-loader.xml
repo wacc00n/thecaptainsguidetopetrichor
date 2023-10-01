@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+      <name>Loader</name>
+      <author>wacc00n</author>
+        <update version="0.0.1">
+            <file name="class-loader.xml" url="https://raw.githubusercontent.com/wacc00n/thecaptainsguidetopetrichor/main/class-loader.xml" />
+        </update>
+    </info>
+</elements>
+
+<element name="Loader" type="Class" source="The Captains Guide to Petrichor" id="ID_HBW_TCGTP_CLASS_LOADER"
+  <description>
+    <p>Loaders show an aptitude for both fighting and movement not seen by other classes. They can easily both surprise and kill any enemy they see with their electrical powers, although they are quite hefty.</p>
+    <h3>CLASS FEATURES</h3>
+    <p>As a loader, you gain the following class features</p>
+          <h5>HIT POINTS</h5>
+          <ul class="unstyled">
+              <li><strong>Hit Dice:</strong> 1d12 per loader level</li>
+              <li><strong>Hit Points at 1st Level:</strong> 12 + your Constitution modifier</li>
+              <li><strong>Hit Points at Higher Levels:</strong> 1d12 (or 6) + your Constitution modifier per loader level after 1st</li>
+          </ul>
+          <h5>PROFICIENCIES</h5>
+          <ul class="unstyled mb">
+              <li><strong>Armor:</strong> All armor</li>
+              <li><strong>Weapons:</strong> Unarmed combat</li>
+              <li><strong>Tools:</strong> Navigator's tools</li>
+          </ul>
+          <ul class="unstyled">
+              <li><strong>Saving Throws:</strong> Strength, Dexterity</li>
+              <li><strong>Skills:</strong> Choose two from Acrobatics, Athletics, Perception, and Stealth</li>
+          </ul>
+    <h5>EQUIPMENT</h5>
+    <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+    <ul>
+      <li><i>(a)</i> Thieves’ tools or <i>(b)</i> Navigator’s tools</li>
+      <li>120 ft. of rope</li>
+    </ul>
+    <h5 class="caption">THE FIGHTER</h5>
+    <table class="class-features">
+      <thead>
+        <tr><td class="col-5">Level</td><td class="left">Features</td></tr>
+      </thead>
+      <tr><td> 1st</td><td class="left">Heavily Armored</td></tr>
+      <tr><td> 2nd</td><td class="left">Charged Gauntlet (x1)</td></tr>
+      <tr><td> 3rd</td><td class="left">Surges</td></tr>
+      <tr><td> 4th</td><td class="left">Ability Score Improvement</td></tr>
+      <tr><td> 5th</td><td class="left">Gauntlet Improvement</td></tr>
+      <tr><td> 6th</td><td class="left">Scrap Barrier (x1)</td></tr>
+      <tr><td> 7th</td><td class="left">Gauntlet Expert</td></tr>
+      <tr><td> 8th</td><td class="left">Ability Score Improvement</td></tr>
+      <tr><td> 9th</td><td class="left">Charged Gauntlet (x2)</td></tr>
+      <tr><td>10th</td><td class="left">Grapple Fist</td></tr>
+      <tr><td>11th</td><td class="left">Scrap Barrier (x2)</td></tr>
+      <tr><td>12th</td><td class="left">Ability Score Improvement</td></tr>
+      <tr><td>13th</td><td class="left">Gauntlet Mastery</td></tr>
+      <tr><td>14th</td><td class="left">Armored Mastery</td></tr>
+      <tr><td>15th</td><td class="left">Charged Gauntlet (x3)</td></tr>
+      <tr><td>16th</td><td class="left">Ability Score Improvement</td></tr>
+      <tr><td>17th</td><td class="left">Scrap Barrier (x3)</td></tr>
+      <tr><td>18th</td><td class="left">Spiked Fist</td></tr>
+      <tr><td>19th</td><td class="left">Ability Score Improvement</td></tr>
+      <tr><td>20th</td><td class="left">Thunderous Mastery</td></tr>
+    </table>
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_HEAVILYARMORED" />
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_CHARGEDGAUNTLET" />
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_ABILITYSCOREIMPROVEMENT_LOADER" />
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_HEAVILYARMORED" />
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_GAUNTLETIMPROVEMENT" />
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_SCRAPBARRIER" />
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_GAUNTLETEXPERT" />
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_GRAPPLEFIST" />
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_GAUNTLETMASTERY" />
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_ARMOREDMASTERY" />
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_SPIKEDFIST" />
+    <div element="ID_HBW_TCGTP_CLASS_FEATURE_THUNDEROUSMASTERY" />
+  </description>
+  <sheet display="false">
+    <description>A master of movement, unarmed combat, and thunder.</description>
+  </sheet>
