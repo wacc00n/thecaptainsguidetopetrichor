@@ -82,4 +82,12 @@
   	       <set name="hd">d12</set>
       </setters>
     </element>
+    <element name="Heavily Armored" type="Class Feature" source="The Captains Guide to Petrichor" id="ID_HBW_TCGTP_CLASS_FEATURE_HEAVILYARMORED">
+      <description>
+        <p>You are naturally able to protect yourself. You gain an extra 1 AC, but you lose 5 ft. of walking speed.</p>
+      </description>
+      <rules>
+            <stat name="ac:misc" value="1"/>
+      </rules>
+    </element>
 </elements>
