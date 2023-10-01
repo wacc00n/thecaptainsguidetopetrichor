@@ -77,5 +77,9 @@
       <sheet display="false">
         <description>A master of movement, unarmed combat, and thunder.</description>
       </sheet>
+      <setters>
+  			<set name="short">A master of movement, unarmed combat, and thunder.</set>
+  			<set name="hd">d12</set>
+  		</setters>
     </element>
 </elements>
