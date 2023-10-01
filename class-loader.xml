@@ -8,7 +8,7 @@
         </update>
     </info>
 
-    <element name="Loader" type="Class" source="The Captains Guide to Petrichor" id="ID_HBW_TCGTP_CLASS_LOADER"
+    <element name="Loader" type="Class" source="The Captains Guide to Petrichor" id="ID_HBW_TCGTP_CLASS_LOADER">
       <description>
         <p>Loaders show an aptitude for both fighting and movement not seen by other classes. They can easily both surprise and kill any enemy they see with their electrical powers, although they are quite hefty.</p>
         <h3>CLASS FEATURES</h3>
