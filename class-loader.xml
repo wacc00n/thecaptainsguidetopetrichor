@@ -78,8 +78,8 @@
         <description>A master of movement, unarmed combat, and thunder.</description>
       </sheet>
       <setters>
-  			<set name="short">A master of movement, unarmed combat, and thunder.</set>
+  			<set name="short">A master of martial combat, skilled with a variety of weapons and armor.</set>
   			<set name="hd">d12</set>
-  	  </setters>
+  		</setters>
     </element>
 </elements>
