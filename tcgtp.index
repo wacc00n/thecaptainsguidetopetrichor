@@ -5,7 +5,7 @@
 		<description>The Captains Guide to Petrichor is a needed expansion for all those who wish to explore the planet of Petrichor V.</description>
 		<author>wacc00n</author>
 		<update version="0.0.1">
-			<file name="tcgtp.index" url="https://raw.githubusercontent.com/wacc00n/thecaptainsguidetopetrichor/main/tcgtp.xml" />
+			<file name="tcgtp.index" url="https://raw.githubusercontent.com/wacc00n/thecaptainsguidetopetrichor/main/tcgtp.index" />
 		</update>
 	</info>
 	<files>
